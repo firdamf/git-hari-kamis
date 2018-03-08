@@ -1,0 +1,1 @@
+console.log("ini adalah firtur-1")
